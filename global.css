@@ -17,11 +17,15 @@ body {
     --color-white: #fff;
   
     /* Gaps */
+    --gap-13xl: 32px;
     --gap-5xl: 24px;
     --gap-5xs: 8px;
+    --gap-33xl: 52px;
   
     /* Paddings */
     --padding-85xl: 104px;
+    --padding-141xl: 160px;
+    --padding-base: 16px;
     --padding-141xl: 160px;
   }
   
