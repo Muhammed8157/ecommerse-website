@@ -1,0 +1,105 @@
+.logo-vector-icon {
+  position: relative;
+  width: 95.95px;
+  height: 28.28px;
+}
+.logo1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.logo,
+.we-are-a {
+  position: relative;
+}
+.logo {
+  width: 96px;
+  height: 32px;
+}
+.we-are-a {
+  line-height: 170.5%;
+  font-weight: 500;
+  display: inline-block;
+  width: 384px;
+}
+.logotext {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.services {
+  position: relative;
+  line-height: 16px;
+  font-weight: 500;
+}
+.bonus-program {
+  margin: 0;
+}
+.bonus-program-gift-cards-credi-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 32px;
+  color: var(--color-lightgray);
+}
+.footer-navigation,
+.info,
+.section {
+  display: flex;
+  align-items: flex-start;
+}
+.section {
+  width: 295.5px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.footer-navigation,
+.info {
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer-navigation {
+  width: 623px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.info {
+  align-self: stretch;
+  flex-wrap: wrap;
+}
+.icon16pxtwitter {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.footer,
+.social-icons {
+  width: 173px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+footer {
+  position: relative;
+  background-color: var(--main-black);
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--padding-85xl) var(--padding-141xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightgray);
+  font-family: var(--font-sf-pro-display);
+}

@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-sf-pro-display: "SF Pro Display";
+  
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-base: 16px;
+  
+    /* Colors */
+    --main-black: #000;
+    --color-lightgray: #cfcfcf;
+    --color-white: #fff;
+  
+    /* Gaps */
+    --gap-5xl: 24px;
+    --gap-5xs: 8px;
+  
+    /* Paddings */
+    --padding-85xl: 104px;
+    --padding-141xl: 160px;
+  }
+  
