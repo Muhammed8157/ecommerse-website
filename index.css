@@ -162,3 +162,6 @@ footer {
   color: var(--color-black);
   font-family: var(--font-sf-pro-display);
 }
+header .logo-vector-icon{
+  fill: black;
+}
